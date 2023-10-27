@@ -1,2 +1,2 @@
-# Programa-o-Funcional
+# Programacao-Funcional
 Repositório criado para disciplina de Programação Funcional
